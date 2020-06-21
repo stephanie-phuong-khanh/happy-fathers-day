@@ -43,7 +43,7 @@ const Li = styled(Link)`
 const Landing = () => (
   <Container>
     <Love>with lots of love,</Love>
-    <Be>Bé Phương Khánh</Be>
+    <Be>Bé Phương Khanh</Be>
     <Be>& Bé Phương Quỳnh</Be>
     <br />
     <br />
